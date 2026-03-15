@@ -1,0 +1,20 @@
+# Bỏ qua các file chạy và file biên dịch trung gian
+*.exe
+*.o
+*.obj
+*.out
+
+# Bỏ qua thư mục rác của Visual Studio (nếu bạn xài)
+.vs/
+Debug/
+Release/
+x64/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Bỏ qua file cấu hình của Code::Blocks hoặc Dev-C++ (nếu bạn xài)
+*.cbp
+*.layout
+*.dev
