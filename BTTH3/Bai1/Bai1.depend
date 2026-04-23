@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1776935803 source:c:\users\tucoi\documents\codeoop\btthoop\bai1\ctamgiac.cpp
+	"cTamGiac.h"
+	<iostream>
+	<cmath>
+
+1776935757 c:\users\tucoi\documents\codeoop\btthoop\bai1\ctamgiac.h
+
+1776936997 source:c:\users\tucoi\documents\codeoop\btthoop\bai1\main.cpp
+	<iostream>
+	"cTamGiac.h"
+

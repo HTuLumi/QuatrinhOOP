@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1776940912 source:c:\users\tucoi\documents\codeoop\btthoop\bai5\cdathuc.cpp
+	"cDaThuc.h"
+	<iostream>
+	<cmath>
+
+1776940891 c:\users\tucoi\documents\codeoop\btthoop\bai5\cdathuc.h
+
+1776940947 source:c:\users\tucoi\documents\codeoop\btthoop\bai5\main.cpp
+	<iostream>
+	"cDaThuc.h"
+

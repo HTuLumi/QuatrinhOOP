@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1776943884 source:c:\users\tucoi\documents\codeoop\btthoop\bai8\cnhanviensx.cpp
+	"cNhanVienSX.h"
+	<iostream>
+	<iomanip>
+
+1776943620 c:\users\tucoi\documents\codeoop\btthoop\bai8\cnhanviensx.h
+	<string>
+
+1776945441 source:c:\users\tucoi\documents\codeoop\btthoop\bai8\main.cpp
+	<iostream>
+	<iomanip>
+	"cNhanVienSX.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1776939202 source:c:\users\tucoi\documents\codeoop\btthoop\bai4\carray.cpp
+	"cArray.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1776939177 c:\users\tucoi\documents\codeoop\btthoop\bai4\carray.h
+
+1776939210 source:c:\users\tucoi\documents\codeoop\btthoop\bai4\main.cpp
+	<iostream>
+	"cArray.h"
+
