@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1779209457 source:c:\users\admin\documents\quatrinhoop\btth4oop\bai5\main.cpp
+	<iostream>
+	"CDaThuc.h"
+
+1779209374 c:\users\admin\documents\quatrinhoop\btth4oop\bai5\include\cdathuc.h
+	<iostream>
+
+1779209404 source:c:\users\admin\documents\quatrinhoop\btth4oop\bai5\src\cdathuc.cpp
+	"CDaThuc.h"
+	<cmath>
+

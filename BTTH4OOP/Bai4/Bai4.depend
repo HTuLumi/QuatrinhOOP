@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1779207166 source:c:\users\admin\documents\quatrinhoop\btth4oop\bai4\src\cdate.cpp
+	"CDate.h"
+	<iomanip>
+	<cmath>
+
+1779207042 c:\users\admin\documents\quatrinhoop\btth4oop\bai4\include\cdate.h
+	<iostream>
+
+1779207762 source:c:\users\admin\documents\quatrinhoop\btth4oop\bai4\main.cpp
+	<iostream>
+	<iomanip>
+	"CDate.h"
+

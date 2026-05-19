@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1779205286 source:c:\users\admin\documents\quatrinhoop\btth4oop\bai3\main.cpp
+	<iostream>
+	"CTime.h"
+
+1779205275 c:\users\admin\documents\quatrinhoop\btth4oop\bai3\include\ctime.h
+	<iostream>
+
+1779205464 source:c:\users\admin\documents\quatrinhoop\btth4oop\bai3\src\ctime.cpp
+	<windows.h>
+	"CTime.h"
+	<iomanip>
+

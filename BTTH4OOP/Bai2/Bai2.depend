@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1779203518 source:c:\users\admin\documents\quatrinhoop\btth4oop\bai2\main.cpp
+	<iostream>
+	"cPhanSo.h"
+
+1779203411 c:\users\admin\documents\quatrinhoop\btth4oop\bai2\include\cphanso.h
+	<iostream>
+
+1779203416 source:c:\users\admin\documents\quatrinhoop\btth4oop\bai2\src\cphanso.cpp
+	"cPhanSo.h"
+	<cmath>
+

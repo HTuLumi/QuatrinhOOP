@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1779212015 source:c:\users\admin\documents\quatrinhoop\btth4oop\bai6\src\cvector.cpp
+	"CVector.h"
+
+1779211961 c:\users\admin\documents\quatrinhoop\btth4oop\bai6\include\cvector.h
+	<iostream>
+
+1779212498 source:c:\users\admin\documents\quatrinhoop\btth4oop\bai6\main.cpp
+	<iostream>
+	"CVector.h"
+

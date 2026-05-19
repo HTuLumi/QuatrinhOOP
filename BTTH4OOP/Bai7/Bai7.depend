@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1779213609 source:c:\users\admin\documents\quatrinhoop\btth4oop\bai7\main.cpp
+	<iostream>
+	"CMatrix.h"
+	"CVector.h"
+
+1779213325 c:\users\admin\documents\quatrinhoop\btth4oop\bai7\include\cmatrix.h
+	<iostream>
+	"CVector.h"
+
+1779213575 c:\users\admin\documents\quatrinhoop\btth4oop\bai7\include\cvector.h
+	<iostream>
+
+1779213330 source:c:\users\admin\documents\quatrinhoop\btth4oop\bai7\src\cmatrix.cpp
+	"CMatrix.h"
+
+1779213582 source:c:\users\admin\documents\quatrinhoop\btth4oop\bai7\src\cvector.cpp
+	"CVector.h"
+

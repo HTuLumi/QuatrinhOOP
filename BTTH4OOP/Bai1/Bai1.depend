@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1779202158 source:c:\users\admin\documents\quatrinhoop\btth4oop\bai1\main.cpp
+	<iostream>
+	"cSoPhuc.h"
+
+1779202144 c:\users\admin\documents\quatrinhoop\btth4oop\bai1\include\csophuc.h
+	<iostream>
+
+1779202152 source:c:\users\admin\documents\quatrinhoop\btth4oop\bai1\src\csophuc.cpp
+	"cSoPhuc.h"
+
