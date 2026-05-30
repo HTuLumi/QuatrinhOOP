@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1780158719 source:c:\users\admin\documents\quatrinhoop\btth5oop\bai6\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	"cKhachHangA.h"
+	"cKhachHangB.h"
+	"cKhachHangC.h"
+
+1780158668 c:\users\admin\documents\quatrinhoop\btth5oop\bai6\include\ckhachhanga.h
+	"cKhachHang.h"
+
+1780158645 c:\users\admin\documents\quatrinhoop\btth5oop\bai6\include\ckhachhang.h
+	<iostream>
+	<string>
+	<fstream>
+
+1780158689 c:\users\admin\documents\quatrinhoop\btth5oop\bai6\include\ckhachhangb.h
+	"cKhachHang.h"
+
+1780158709 c:\users\admin\documents\quatrinhoop\btth5oop\bai6\include\ckhachhangc.h
+	"cKhachHang.h"
+
+1780158651 source:c:\users\admin\documents\quatrinhoop\btth5oop\bai6\src\ckhachhang.cpp
+	"cKhachHang.h"
+	<iomanip>
+
+1780158673 source:c:\users\admin\documents\quatrinhoop\btth5oop\bai6\src\ckhachhanga.cpp
+	"cKhachHangA.h"
+
+1780158713 source:c:\users\admin\documents\quatrinhoop\btth5oop\bai6\src\ckhachhangc.cpp
+	"cKhachHangC.h"
+
+1780159163 source:c:\users\admin\documents\quatrinhoop\btth5oop\bai6\src\ckhachhangb.cpp
+	"cKhachHangB.h"
+	<algorithm>
+

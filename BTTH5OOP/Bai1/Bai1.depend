@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1780151131 source:c:\users\admin\documents\quatrinhoop\btth5oop\bai1\src\cnhanvien.cpp
+	"cNhanVien.h"
+	<iomanip>
+
+1780151109 c:\users\admin\documents\quatrinhoop\btth5oop\bai1\include\cnhanvien.h
+	<iostream>
+	<string>
+
+1780151373 source:c:\users\admin\documents\quatrinhoop\btth5oop\bai1\src\cnhanviensx.cpp
+	"cNhanVienSX.h"
+
+1780151374 c:\users\admin\documents\quatrinhoop\btth5oop\bai1\include\cnhanviensx.h
+	"cNhanVien.h"
+
+1780151485 source:c:\users\admin\documents\quatrinhoop\btth5oop\bai1\src\cnhanvienvp.cpp
+	"cNhanVienVP.h"
+
+1780151403 c:\users\admin\documents\quatrinhoop\btth5oop\bai1\include\cnhanvienvp.h
+	"cNhanVien.h"
+
+1780152161 source:c:\users\admin\documents\quatrinhoop\btth5oop\bai1\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	"cNhanVienSX.h"
+	"cNhanVienVP.h"
+

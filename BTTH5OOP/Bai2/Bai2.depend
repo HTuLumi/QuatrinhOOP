@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1780153083 source:c:\users\admin\documents\quatrinhoop\btth5oop\bai2\src\cgiaodich.cpp
+	"cGiaoDich.h"
+	<iomanip>
+
+1780153092 c:\users\admin\documents\quatrinhoop\btth5oop\bai2\include\cgiaodich.h
+	<iostream>
+	<string>
+
+1780153245 source:c:\users\admin\documents\quatrinhoop\btth5oop\bai2\src\cgiaodichchungcu.cpp
+	"cGiaoDichChungCu.h"
+
+1780153222 c:\users\admin\documents\quatrinhoop\btth5oop\bai2\include\cgiaodichchungcu.h
+	"cGiaoDich.h"
+
+1780153276 source:c:\users\admin\documents\quatrinhoop\btth5oop\bai2\src\cgiaodichdat.cpp
+	"cGiaoDichDat.h"
+
+1780153152 c:\users\admin\documents\quatrinhoop\btth5oop\bai2\include\cgiaodichdat.h
+	"cGiaoDich.h"
+
+1780153427 source:c:\users\admin\documents\quatrinhoop\btth5oop\bai2\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	"cGiaoDichDat.h"
+	"cGiaoDichNhaPho.h"
+	"cGiaoDichChungCu.h"
+
+1780153183 c:\users\admin\documents\quatrinhoop\btth5oop\bai2\include\cgiaodichnhapho.h
+	"cGiaoDich.h"
+
+1780153261 source:c:\users\admin\documents\quatrinhoop\btth5oop\bai2\src\cgiaodichnhapho.cpp
+	"cGiaoDichNhaPho.h"
+
